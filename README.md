@@ -1,5 +1,5 @@
 <p style="color:blue;padding:5px;background-color:white;border-radius:5px"> 
-<img align="center" src="https://img.freepik.com/premium-vector/amazing-virtual-world-digital-art-graphics-science-technology-future-virtual-reality-glasses-metaverse-colorful-planets-space-fantasy-concept-vector-illustrationgenerative-ai_748571-1002.jpg"/>
+<img align="center" width="100%" src="https://img.freepik.com/premium-vector/amazing-virtual-world-digital-art-graphics-science-technology-future-virtual-reality-glasses-metaverse-colorful-planets-space-fantasy-concept-vector-illustrationgenerative-ai_748571-1002.jpg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Manish Chatterjee</h1>
 <h3 align="center">Frontend Web Developer</h3>
