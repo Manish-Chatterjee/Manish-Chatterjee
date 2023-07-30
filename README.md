@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Manish Chatterjee</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="manish-chatterjee" /> </p>
 
 Visit my <a href="https://manish-chatterjee.github.io/Portfolio-Website/" target="_blank">Portfolio</a> Website
 <hr />
@@ -37,5 +36,4 @@ Visit my <a href="https://manish-chatterjee.github.io/Portfolio-Website/" target
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish-chatterjee&show_icons=true&locale=en&layout=compact" alt="manish-chatterjee" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish-chatterjee&show_icons=true&locale=en" alt="manish-chatterjee" /></p>
 
