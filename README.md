@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-chatterjee&label=Profile%20views&color=0e75b6&style=flat" alt="manish-chatterjee" /> </p>
 
-Visit my <a href="https://manish-chatterjee.github.io/Portfolio/" target="_blank">Portfolio</a> Website
+Visit my <a href="https://manish-chatterjee.github.io/Portfolio-Website/" target="_blank">Portfolio</a> Website
 <hr />
 
 <h3 align="left">Connect with me:</h3>
