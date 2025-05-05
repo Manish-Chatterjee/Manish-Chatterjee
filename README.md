@@ -13,15 +13,22 @@
 ---
 
 
-<h3>About Me</h3>
-<p></p<>
+### About Me
+
+_Passionate frontend developer and digital creator who loves building sleek, responsive, and SEO-friendly web interfaces. With a strong grip on **React**, and modern **JavaScript**, I craft user experiences that are both Performant and Beautiful._
+
+🔭 I’m currently diving deep into **full-stack development** with **MERN** and **Spring Boot**, aiming to land a **FAANG-level software engineering role**.  
+🌇 My design style blends code and creativity — think city lights, glassmorphism, and night-inspired blur aesthetics.  
+🎨 Outside of code, I'm a graphic illustrator and creative mind, always exploring ways to bring visual storytelling into my work.  
+💡 Whether it's crafting a portfolio that *feels* like a product or optimizing load times down to the last millisecond, I believe in doing things with precision and passion.  
+🚀 Always learning. Always building. Always evolving.
 
 
-<h3 align="right">My Socials:</h3>
+<h3 align="right">My Socials</h3>
 
 <div align="right">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://le-portefeuille-9uun.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/manish-chatterjee1602)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@manish_10476)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanish10476@gmail.com)
 </div>
 
 <hr/>
