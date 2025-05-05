@@ -29,8 +29,9 @@
 
 <h3 align="center">Languages & tools I Have placed My Hands on</h3>
 <br/>
+<div align="center">
 <img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,sass,figma,java,spring,mongodb,mysql,postgres,nodejs,express,postman,git,github,vercel,markdown,bash"/>
-
+</div>
 
 <br/>
 
@@ -58,3 +59,6 @@
 🔹 **FAANG-level** System Design  
 
 <br/>
+
+<img align="center" width="100%" src="https://github.com/user-attachments/assets/9754cb1d-b760-43e7-82f2-f583f9c9e1d8"/>
+
