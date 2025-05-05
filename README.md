@@ -46,11 +46,15 @@
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manish-Chatterjee&show_icons=true&theme=radical&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manish-Chatterjee&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-Chatterjee&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 🎯 **Currently Learning**  
