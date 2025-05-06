@@ -12,8 +12,9 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.WAKA_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        env:
+          GH_TOKEN: ${{ secrets.WAKA_PAT }}
 
           ### content
           SHOW_TITLE: true # optional
