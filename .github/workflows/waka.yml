@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GITHUB_TOKEN: ${{ secrets.WAKA_PAT }}
+          GH_TOKEN: ${{ secrets.WAKA_PAT }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
           ### content
