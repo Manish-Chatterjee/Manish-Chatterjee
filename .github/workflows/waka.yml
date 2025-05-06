@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -10,21 +10,15 @@ jobs:
     name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        env:
-          GH_TOKEN: ${{ secrets.WAKA_PAT }}
+      - name: Checkout
+        uses: actions/checkout@v3
 
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: ⣿ # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+      - name: Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          GH_TOKEN: ${{ secrets.WAKA_PAT }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
