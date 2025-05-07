@@ -19,6 +19,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_TIMEZONE: "True"
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE: true
+          SHOW_TIMEZONE: true
+          SHOW_LINES_OF_CODE: false
+          SHOW_COMMIT: false
+          SHOW_LOC_CHART: false
+          SHOW_PROFILE_VIEWS: true
