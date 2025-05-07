@@ -2,7 +2,7 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '32 10 * * *' # every day at midnight
+    - cron: '0 0 * * *' # every day at midnight
   workflow_dispatch:
 
 jobs:
