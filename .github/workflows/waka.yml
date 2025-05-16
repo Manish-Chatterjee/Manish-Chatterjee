@@ -33,6 +33,3 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LOC_CHART: false
           SYMBOL_VERSION: 2
-
-          SHOW_LANGUAGE_STATS_POLAR_STACKED_GROUP
-::contentReference[oaicite:30]{index=30}
