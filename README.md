@@ -6,9 +6,9 @@
 <h1 align="center">Hey 👋🏻, it's me <b><i>Manish</i></b></h1>
 
 <h3 align="center">Software Developer by profession, techie after hours,<br/> caffeine-fueled coder by day, and a free spirit when left unchained</h3>
-<br />
+<!-- <br /> -->
 
-<p align="center">🏅<i>I present you the greatest <a href="https://le-portefeuille-9uun.vercel.app/" target="_blank"><b>Website</b></a> ever build !!</i>🏅</p>
+<!-- <p align="center">🏅<i>I present you the greatest <a href="https://le-portefeuille-9uun.vercel.app/" target="_blank"><b>Website</b></a> ever build !!</i>🏅</p> -->
 
 ---
 
@@ -28,7 +28,7 @@ _Passionate frontend developer and digital creator who loves building sleek, res
 
 <div align="right">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://le-portefeuille-9uun.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/manish-chatterjee1602)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@manish_10476)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanish10476@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://manish-chatterjee-portfolio.vercel.app/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/manish-chatterjee1602)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@manish_10476)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cmanish10476@gmail.com)
 </div>
 
 <hr/>
