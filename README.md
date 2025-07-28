@@ -15,7 +15,7 @@
 
 ### About Me
 
-_Passionate frontend developer and digital creator who loves building sleek, responsive, and SEO-friendly web interfaces. With a strong grip on **React**, and modern **JavaScript**, I craft user experiences that are both Performant and Beautiful._
+_Passionate frontend developer and digital creator who loves building sleek, responsive, and SEO-friendly web interfaces. With a strong grip on **React**, and modern **JavaScript**, I craft user experiences that are both Performant and Elegant._
 
 🔭 I’m currently diving deep into **full-stack development** with **MERN** and **Spring Boot**, aiming to land a **FAANG-level software engineering role**.  
 🌇 My design style blends code and creativity — think city lights, glassmorphism, and night-inspired blur aesthetics.  
