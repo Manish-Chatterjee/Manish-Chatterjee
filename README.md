@@ -45,7 +45,7 @@ _Passionate frontend developer and digital creator who loves building sleek, res
 <!-- ### 📊 Weekly development breakdown -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2043%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -77,7 +77,7 @@ Windows                  12 hrs 32 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 11/12/2025 01:50:14 UTC
+ Last Updated on 12/12/2025 01:49:34 UTC
 <!--END_SECTION:waka-->
 
 <br/>
