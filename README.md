@@ -37,7 +37,7 @@ _Passionate frontend developer and digital creator who loves building sleek, res
 <h3 align="center">Languages & tools I Have placed My Hands on</h3>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,bootstrap,html,css,sass,figma,java,spring,mongodb,mysql,postgres,nodejs,express,postman,git,github,vercel,markdown,bash"/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,redux,styledcomponents,bootstrap,materialui,tailwind,html,css,sass,figma,java,spring,maven,mongodb,mysql,postgres,graphql,nodejs,express,postman,git,github,vercel,markdown,bash,notion"/>
 </div>
 
 <br/>
